@@ -1,0 +1,11 @@
+langchain==0.2.14
+streamlit==1.36.0
+requests
+beautifulsoup4
+langchain==0.2.14
+langchain-community==0.2.12
+faiss-cpu
+tiktoken
+python-dotenv
+sentence-transformers
+groq
